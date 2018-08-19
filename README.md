@@ -1,2 +1,2 @@
 # creditCardFraudDetection
-# A test for forking the reportory
+# A test for forking the repository
